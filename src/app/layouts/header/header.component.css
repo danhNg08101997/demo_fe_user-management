@@ -1,0 +1,6 @@
+.bg-header{
+    background: var(--light-blue-pastel-color);
+}
+.header-height{
+    height: 60px !important;
+}

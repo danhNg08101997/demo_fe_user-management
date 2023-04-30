@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,700;0,900;1,400&display=swap");
+
+:root {
+  /* start color variables */
+  --white-color: #fff;
+  --black-color: #000;
+  --light-blue-pastel-color:#85b4d0;
+  --dark-blue-pastel-color: #516573;
+  --gray-pastel-color: #edf1f5;
+  --brown-pastel-color: #cbb2ae;
+  --green-pastel-color: #aec9cb;
+  --purple-pastel-color:#b5a7b9;
+
+  /* end color variables */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn-icon {
+  height: 40px;
+  width: 40px;
+}
